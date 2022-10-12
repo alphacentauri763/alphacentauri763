@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Machine Learning Pipelines - Data Structures - SQL
+Data Pipelines - Computational Problem Solving - DSP and related Adventures
 
 
 ## 🌐 Socials:
