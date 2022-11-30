@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Data Pipelines - Computational Problem Solving - DSP and related Adventures
+Data Pipelines - Computational Problem Solving - DSP and Correlated Adventures.
 
 
 ## 🌐 Socials:
